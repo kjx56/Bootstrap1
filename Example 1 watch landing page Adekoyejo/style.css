@@ -1,0 +1,23 @@
+body {
+    background: url("Watch.jpg") no-repeat , center , fixed;
+    background-size:cover;
+}
+
+.hero {
+
+color: rgb(248, 245, 245) ;
+margin-top: 20% ;
+text-align: center;
+font-size: 75px;
+letter-spacing: -.05em;
+line-height: 1.2em;
+font-family: 'Raleway', sans-serif , cursive;
+
+}
+
+.ima { 
+    
+    height: 275px;
+    width: 370px;
+
+}
